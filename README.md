@@ -226,6 +226,7 @@ Pull requests are also very welcome. The best way to submit a PR is by first cre
 
 2-clause BSD license, see [LICENSE.md](LICENSE.md)
 
+
 ## Contributors
 
 - [Cedric DELGEHIER](https://github.com/cdelgehier/) (maintainer)
