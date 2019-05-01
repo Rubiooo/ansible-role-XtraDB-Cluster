@@ -211,7 +211,7 @@ There are two types of test environments available. One powered by Vagrant, anot
 
 ## Remove
 
-To remove alltraces and start a new install 
+To remove alltraces and start a new install
 
 ```
 ansible  db -m shell -a 'rm -rf /var/lib/mysql /var/log/mysqld.log /etc/percona-xtradb-cluster.conf.d ; yum remove Percona* -y'
